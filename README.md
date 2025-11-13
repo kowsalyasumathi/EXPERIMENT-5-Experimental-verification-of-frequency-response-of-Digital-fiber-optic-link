@@ -46,14 +46,14 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="725" height="429" alt="image" src="https://github.com/user-attachments/assets/c6df9e28-c550-4ef6-957d-adbe01f6bd39" />
 
 ---
 
 ## CONNECTION DIAGRAM  
 **Setting up a Digital Link**
 
-*(Insert connection diagram here)*
+
 
 ---
 
@@ -62,13 +62,26 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
 |----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+|   800Hz        |     2.5V                     |  0.5         |   -6.02
+|  1KHz          |     32V                      |  6.4         |   16.12
+|  2Khz          |     34V                      |  6.8         |   16.6
+|  5KHz          |     36V                      |  7.2         |   17.14
+|  10KHz         |     37V                      |  7.4         |   17.38
+|  20KHz         |     37V                      |  7.4         |   17.38
+|  50KHz         |     37V                      |  7.4         |   17.38
+|  100KHz        |     27V                      |  5.4         |   14.64
+|  250KHz        |     12.7V                    |  2.54        |    8.09
+
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="805" height="386" alt="image" src="https://github.com/user-attachments/assets/ac8be9c2-1d75-46d4-86d8-b54c860d029d" />
+
+GRAPH 
+
+![WhatsApp Image 2025-11-12 at 22 39 24_f03ddfa7](https://github.com/user-attachments/assets/3ac1f21a-9a61-443e-b2bd-40edaf5a4f86)
 
 ---
 
