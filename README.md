@@ -50,13 +50,6 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-## CONNECTION DIAGRAM  
-**Setting up a Digital Link**
-
-
-
----
-
 ## TABULATION  
 **Transmission through Digital Link**
 
@@ -87,4 +80,4 @@ GRAPH
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the frequency response of the digital fiber optic link was successfully verified. The measured bandwidth of the digital fiber optic link is approximately 200 kHz, confirming the expected performance characteristics of digital optical transmission.
